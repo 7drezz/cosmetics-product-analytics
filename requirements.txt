@@ -1,0 +1,13 @@
+-c requirements-lock.txt
+duckdb==1.4.3
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.8
+ipython==9.8.0
+ipykernel==7.1.0
+nbformat==5.10.4
+nbclient==0.11.0
+jupyter-client==8.6.3
+jupyter-core==5.9.1
+jupyterlab==4.4.10
+nbconvert==7.16.6

@@ -1,0 +1,35 @@
+{
+  "archive": "cosmetics.zip",
+  "bytes": 450866572,
+  "sha256": "9e6412743b279180e025d0d4491033dc693867ae92a7851264ea2dbbf5568922",
+  "members": [
+    {
+      "file": "2019-Dec.csv",
+      "bytes": 415302972,
+      "crc32": "5c7d16fa"
+    },
+    {
+      "file": "2019-Nov.csv",
+      "bytes": 545839412,
+      "crc32": "2cf3b9bc"
+    },
+    {
+      "file": "2019-Oct.csv",
+      "bytes": 482542278,
+      "crc32": "f33d5db2"
+    },
+    {
+      "file": "2020-Feb.csv",
+      "bytes": 488799986,
+      "crc32": "4ae80441"
+    },
+    {
+      "file": "2020-Jan.csv",
+      "bytes": 501792804,
+      "crc32": "4d00e500"
+    }
+  ],
+  "source": "https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop",
+  "kaggle_version": "not independently confirmed",
+  "frozen_on": "2026-10-30"
+}
